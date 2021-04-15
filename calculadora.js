@@ -8,4 +8,5 @@ let restar = require('./operaciones/restar.js');
 console.log("La suma es: " + sumar(10,3));
 console.log("La Resta es: " + restar(10,3));
 console.log("La División es: " + dividir(10,3));
+console.log("La División es: " + dividir(10,0));
 console.log("La Multiplicación es: " + multiplicar(10,3));
