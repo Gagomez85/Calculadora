@@ -6,4 +6,4 @@ function dividir(a,b){
     }
 }
 
-module.exports = dividir(a,b)
+module.exports = dividir

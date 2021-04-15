@@ -7,5 +7,5 @@ function multiplicar(a,b){
     
 }
 
-module.exports = multiplicar(a*b);
+module.exports = multiplicar
 

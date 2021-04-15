@@ -1,6 +1,7 @@
 function sumar (a,b){
     return a+b;
 }
-// module.exports.sumar = sumar
 
-module.export = sumar
+
+
+module.exports = sumar
